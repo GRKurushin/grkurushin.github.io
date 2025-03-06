@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Георгий Курушин | Georgy Kurushin</title>
+    <link>http://localhost:1313/author/%D0%B3%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B8-%D0%BA%D1%83%D1%80%D1%83%D1%88%D0%B8%D0%BD/</link>
+      <atom:link href="http://localhost:1313/author/%D0%B3%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B8-%D0%BA%D1%83%D1%80%D1%83%D1%88%D0%B8%D0%BD/index.xml" rel="self" type="application/rss+xml" />
+    <description>Георгий Курушин</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language>
+    <image>
+      <url>http://localhost:1313/author/%D0%B3%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B8-%D0%BA%D1%83%D1%80%D1%83%D1%88%D0%B8%D0%BD/avatar_hu3c64bd0f98018e2d901b7c60447ac42e_1387900_270x270_fill_q80_lanczos_center.jpg</url>
+      <title>Георгий Курушин</title>
+      <link>http://localhost:1313/author/%D0%B3%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B8-%D0%BA%D1%83%D1%80%D1%83%D1%88%D0%B8%D0%BD/</link>
+    </image>
+    
+  </channel>
+</rss>
